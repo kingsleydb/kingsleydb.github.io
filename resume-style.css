@@ -9,6 +9,7 @@ h1 {
 }
 
 .linkbar{
+    text-align: center;
     border-style: solid;
     background-color: yellow;
     font-family: helvetica;
