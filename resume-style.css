@@ -1,7 +1,16 @@
 /* resume stylesheet */
 
 body {
-    background-color: blue;
-    font-size: 50px;
+    background-color: skyblue;
+}
 
+h1 {
+    text-align: center;
+}
+
+.linkbar{
+    border-style: solid;
+    background-color: yellow;
+    font-family: helvetica;
+    color: black;
 }

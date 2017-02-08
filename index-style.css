@@ -1,5 +1,20 @@
 /* index stylesheet */
 body {
-    background-color: blue;
-    font-size: 16px;
+    text-align: center;
+    background-color: skyblue;
+    color: black;
+}
+
+img {
+    height:auto;
+    width:auto;
+    max-width: 800px;
+    max-height: 800px;
+}
+
+.linkbar{
+    border-style: solid;
+    background-color: yellow;
+    font-family: helvetica;
+    color: black;
 }
