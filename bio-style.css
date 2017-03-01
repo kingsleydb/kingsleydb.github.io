@@ -1,15 +1,18 @@
 /* bio stylesheet */
 
 body {
-    background-color: skyblue;
+    background-color: blanchedalmond;
+    color: black;
+    font-family: tahoma;
     text-align: center;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .linkbar{
-    border-style: solid;
-    background-color: yellow;
-    font-family: helvetica;
+    text-align: center;
+    border-style: groove;
+    background-color: paleturquoise;
     color: black;
+    font-family: tahoma;
 }

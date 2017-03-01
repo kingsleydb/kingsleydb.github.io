@@ -1,17 +1,23 @@
 /* resume stylesheet */
 
 body {
-    background-color: skyblue;
+    background-color: blanchedalmond;
+    color: black;
+    font-family: tahoma;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 13px;
 }
 
 h1 {
     text-align: center;
+    font-family: tahoma;
 }
 
 .linkbar{
     text-align: center;
-    border-style: solid;
-    background-color: yellow;
-    font-family: helvetica;
+    border-style: groove;
+    background-color: paleturquoise;
+    font-family: tahoma;
     color: black;
 }

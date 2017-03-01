@@ -1,20 +1,22 @@
 /* index stylesheet */
 body {
     text-align: center;
-    background-color: skyblue;
+    background-color: blanchedalmond;
     color: black;
+    font-family: tahoma;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 img {
-    height:auto;
-    width:auto;
-    max-width: 800px;
-    max-height: 800px;
+    height:350px;
+    width:509px;
 }
 
 .linkbar{
-    border-style: solid;
-    background-color: yellow;
-    font-family: helvetica;
+    text-align: center;
+    border-style: groove;
+    background-color: paleturquoise;
+    font-family: tahoma;
     color: black;
 }
