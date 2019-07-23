@@ -1,18 +1,29 @@
 /* bio stylesheet */
 
 body {
-    background-color: blanchedalmond;
-    color: black;
-    font-family: tahoma;
     text-align: center;
-    margin-left: 10%;
-    margin-right: 10%;
+    background-image: url("giphy1.gif");
+    background-position: center;
+    background-attachment: fixed;
+    color: orange;
+    font-family: georgia;
+    font-size:1.5em;
 }
 
 .linkbar{
-    text-align: center;
-    border-style: groove;
-    background-color: paleturquoise;
-    color: black;
-    font-family: tahoma;
+    text-align: left;
+    background-color: honeydew;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 1em;
+    position: fixed;
+    border-style: ridge;
+    top:0;
+}
+
+.textBody{
+    background-color: honeydew;
+    border-style: solid;
+    border-width: .25em;
+    border-color: black;
 }

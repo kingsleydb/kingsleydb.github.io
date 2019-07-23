@@ -1,22 +1,44 @@
 /* index stylesheet */
+
 body {
     text-align: center;
-    background-color: blanchedalmond;
-    color: black;
-    font-family: tahoma;
-    margin-left: 10%;
-    margin-right: 10%;
+    background-image: url("giphy1.gif");
+    background-position: center;
+    background-attachment: fixed;
+    color: orange;
+    font-family: georgia;
+    font-size:1.5em;
 }
 
-img {
-    height:350px;
-    width:509px;
+.image1 {
+    height: 350px;
+    width: 260px;
+}
+
+.image2 {
+    height: 350px;
+    width: 550px;
+}
+
+.Title{
+    background-color: honeydew;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    margin-bottom: 15%;
+    border-style: double;
+    border-width:.25em;
+
 }
 
 .linkbar{
-    text-align: center;
-    border-style: groove;
-    background-color: paleturquoise;
-    font-family: tahoma;
-    color: black;
+    text-align: left;
+    background-color: honeydew;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 1em;
+    position: fixed;
+    color:orange;
+    top:0;
+    border-style:solid;
 }
