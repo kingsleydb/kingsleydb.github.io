@@ -8,6 +8,7 @@ body {
     color: orange;
     font-family: georgia;
     font-size:1.5em;
+    margin-left:10%;
 }
 
 .image1 {
@@ -22,7 +23,6 @@ body {
 
 .Title{
     background-color: honeydew;
-    margin-left: 10%;
     margin-right: 10%;
     margin-top: 3%;
     margin-bottom: 15%;
@@ -41,5 +41,4 @@ body {
     color:orange;
     top:0;
     border-style:solid;
-    margin-left: 10%;
 }

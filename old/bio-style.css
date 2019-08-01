@@ -1,13 +1,12 @@
 /* bio stylesheet */
 
 body {
-    text-align: center;
-    background-image: url("giphy1.gif");
-    background-position: center;
-    background-attachment: fixed;
-    color: orange;
+    background-color: honeydew;
+    color: black;
     font-family: georgia;
-    font-size:1.5em;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 1em;
 }
 
 .linkbar{
@@ -15,15 +14,15 @@ body {
     background-color: honeydew;
     font-family: arial;
     font-weight: bold;
-    font-size: 1em;
+    font-size: 1.5em;
     position: fixed;
-    border-style: ridge;
+    border-style: solid;
+    color: orange;
     top:0;
 }
 
 .textBody{
     background-color: honeydew;
     border-style: solid;
-    border-width: .25em;
     border-color: black;
 }
